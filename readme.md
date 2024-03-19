@@ -1,0 +1,2 @@
+# This is the repository for the code base and necessary dependencies and essential for the project:
+Hybrid model for accurate prediction of increasing temporal big data in the cloud for mining large collections of co-evolving sequences
